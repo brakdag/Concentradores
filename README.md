@@ -1,0 +1,2 @@
+# Concentradores
+Calculo de concentradores
