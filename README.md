@@ -46,4 +46,4 @@ Cálculo de extracción Solido Líquido. (Lixiviación)
 
 #### 6. Cálculo % extracción.
 
->$E = \frac{V_1 Y_{A1}}{L_0 X_{A0}} 100=$
+>$E = \frac{L_0 X_{A0}-L_1 X_{A1}}{L_0 X_{A0}} 100=$
