@@ -1,6 +1,6 @@
 # Concentradores
-Calculo de extracción Solido-líquido. (Procedimiento)
-
+Cálculo de extracción Solido Líquido. (Lixiviación)
+![concentrador](./img/concentrador_simple.svg)
 #### 1. Cálculo de $X_M$
 >$X_{SM} = \frac{(L_0 X_{S0} + V_2 Y_{S2})}{ (L_0 + V_2)}$
 
@@ -34,4 +34,16 @@ Calculo de extracción Solido-líquido. (Procedimiento)
 
 >$Y_1=[Y_{A1},Y_{S1}]$
 
+#### 4. Cálculo $L_1$
 
+>$L_1+V_1=L_0+V_2=M$
+
+>$L_1=L_0 (X_{B0}+ X_{A1}+X_{S1})$
+
+#### 5. Cálculo $V_1$
+
+>$V_1 =V_2 Y_{S2}+L_0 (1-X_{S1}-X_{B0})$
+
+#### 6. Cálculo % extracción.
+
+>$E = \frac{V_1 Y_{A1}}{L_0 X_{A0}} 100=$

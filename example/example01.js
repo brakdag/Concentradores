@@ -7,7 +7,7 @@
  * Calcular:
  * a) Las composiciones del flujo superior o extracto y del flujo
  * inferior o refinado.   (Y1,X1)
- * b) Las cantidades de extracto y de refinado. 
+ * b) Las cantidades de extracto y de refinado. (L1,V1)
  * c) El porcentaje de SO4Cu extraído.
  */
 
