@@ -9,6 +9,7 @@
  * inferior o refinado.   (Y1,X1)
  * b) Las cantidades de extracto y de refinado. (L1,V1)
  * c) El porcentaje de SO4Cu extraído.
+ *
  */
 
 const concent = require("../lib/concentrador.js")
